@@ -38,6 +38,9 @@ Open this link in your web browser (replacing [yoursite.com] with your site addr
 
 The installation is automatic, you just have to fill the fields and that's it.
 
+User = admin
+Password = admin
+
 
 License
 -------
